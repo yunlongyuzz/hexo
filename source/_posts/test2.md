@@ -11,4 +11,4 @@ categories: test2
 
 test
 
-- ![img](/img/1.png)
+![img](/source/img/1.png)
